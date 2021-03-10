@@ -2,6 +2,8 @@
 
 Augmented Testing with Scout: Visual GUI Testing made easy!
 
+[![Plugins](https://github.com/augmented-testing/scout/actions/workflows/plugins.yml/badge.svg)](https://github.com/augmented-testing/scout/actions/workflows/plugins.yml)
+
 ## Introduction
 
 Scout is a tool using a novel approach we call Augmented Testing (AT) to simplify Visual GUI Testing (VGT).
