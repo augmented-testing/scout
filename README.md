@@ -1,8 +1,8 @@
 <p align="center"><img src="icons/splash.png"></p>
 
-Augmented Testing with Scout: Visual GUI Testing made easy!
-
 [![Plugins](https://github.com/augmented-testing/scout/actions/workflows/plugins.yml/badge.svg)](https://github.com/augmented-testing/scout/actions/workflows/plugins.yml)
+
+# Augmented Testing with Scout: Visual GUI Testing made easy
 
 ## Introduction
 
