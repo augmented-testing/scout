@@ -22,6 +22,7 @@ JRE version 8 or later is suitable for running Scout.
 ## Run Scout
 
 You can run Scout either by clicking on the `Scout.jar` or using the command `java -jar Scout.jar`.
+Before you can run Scout for the first time you have to build all plugins with `make build`.
 
 ## Plugin Development
 
