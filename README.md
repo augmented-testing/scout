@@ -1,4 +1,4 @@
-<p align="center"><img src="icons/splash.png"></p>
+![banner](icons/splash.png)
 
 [![Plugins](https://github.com/augmented-testing/scout/actions/workflows/plugins.yml/badge.svg)](https://github.com/augmented-testing/scout/actions/workflows/plugins.yml)
 
@@ -28,6 +28,8 @@ You can run Scout either by clicking on the `Scout.jar` or using the command `ja
 Scout is a highly customizable tool due its plugin architecture. If you want to extend Scout's functionalities just create a new plugin in the `plugin/` folder.
 
 A plugin should be independent and therefore should not contain any external dependencies. If necessary, external libs must be copied to the `bin/` directory. A good idea for plugin development (and development in general) is to follow the Keep it Simple/Stupid (KISS) principle.
+
+If you are interested in developing a single plugin without the whole Scout environment you should have a look at the [Single-Plugin-Template](https://github.com/augmented-testing/single-plugin-template) repository.
 
 If you have to mange multiple Java versions you could use the tool [SDKMAN](https://sdkman.io) which helps to maintain multiple JDK versions.
 
