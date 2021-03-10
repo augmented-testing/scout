@@ -9,10 +9,6 @@ clean: ## Clean up all build artifacts.
 build: ## Build all plugins.
 	javac -cp "Scout.jar" ./plugin/*.java
 
-.PHONY: deploy
-deploy: build ## Deploy plugins to Scout installation path.
-	cp plugin/*.class ${SCOUT_PATH}plugins/
-
 .PHONY: run
 run: build ## Run Scout with fresh build plugins.
 	java -jar Scout.jar
