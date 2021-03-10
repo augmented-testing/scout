@@ -2,7 +2,9 @@
 
 [![Plugins](https://github.com/augmented-testing/scout/actions/workflows/plugins.yml/badge.svg)](https://github.com/augmented-testing/scout/actions/workflows/plugins.yml)
 
-# Augmented Testing with Scout: Visual GUI Testing made easy
+# Augmented Testing with Scout
+
+Visual GUI Testing made easy!
 
 ## Introduction
 
@@ -24,6 +26,8 @@ You can run Scout either by clicking on the `Scout.jar` or using the command `ja
 ## Plugin Development
 
 Scout is a highly customizable tool due its plugin architecture. If you want to extend Scout's functionalities just create a new plugin in the `plugin/` folder.
+
+A plugin should be independent and therefore should not contain any external dependencies. If necessary, external libs must be copied to the `bin/` directory. A good idea for plugin development (and development in general) is to follow the Keep it Simple/Stupid (KISS) principle.
 
 If you have to mange multiple Java versions you could use the tool [SDKMAN](https://sdkman.io) which helps to maintain multiple JDK versions.
 
@@ -54,7 +58,7 @@ The folder `docs/` contains additional documentation as well as the JavaDocs for
 
 Copyright (c) 2021 [TBA]
 
-This work (source code) is licensed under [MIT or Apache2 ???].
+This work (source code) is licensed under [???].
 
 Files other than source code are licensed as follows:
 
