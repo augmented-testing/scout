@@ -1,4 +1,4 @@
-name: Plugins Java ${{ matrix.jdk }}
+name: Plugins
 
 on:
   push:
