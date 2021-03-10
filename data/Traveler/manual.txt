@@ -1,0 +1,9 @@
+Click on the 'Contact' menu option in the top right corner
+Click on the label 'Get In Touch' to add a Check
+Type 'name' using the keyboard, then click on 'Your name' to type the text
+Type 'name@company.com' using the keyboard, then click on 'Your email address' to type the text
+Type 'A question' using the keyboard, then click on 'Your subject of this message' to type the text
+Click the 'Send Message' button
+Click on the label 'we will contact you shortly' to add a Check
+Click the 'Go Home' button in the Scout toolbar to go back to the Home state
+Click the 'Stop' button in the Scout toolbar to end the test session
