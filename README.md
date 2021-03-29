@@ -59,9 +59,9 @@ The folder `docs/` contains additional documentation as well as the JavaDocs for
 
 ## License
 
-Copyright (c) 2021 [TBA]
+Copyright (c) 2021 Michel Nass, Andreas Bauer
 
-This work (source code) is licensed under [???].
+This work (source code) is licensed under [MIT](./LICENSE/MIT.txt).
 
 Files other than source code are licensed as follows:
 
