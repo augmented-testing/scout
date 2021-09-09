@@ -11,10 +11,6 @@ Visual GUI Testing made easy!
 
 Scout is a tool using a novel approach we call Augmented Testing (AT) to simplify Visual GUI Testing (VGT).
 
-[add more text]
-
-[add ref to paper]
-
 ## Requirements
 
 Scout is developed in Java and therefore requires the Java Runtime Environment (JRE).
